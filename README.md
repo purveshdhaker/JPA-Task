@@ -20,10 +20,6 @@ This project explores the behavior of JPA entity lifecycle and EntityManager met
 - Use EntityManager and JpaRepository for entity management operations.
 - Configure transaction management to ensure data integrity.
 
-## Test Scenarios
-
-Tasks to be performed are mentioned in the `task_description.txt` file in the resources folder.
-
 ## Conclusion
 
 This experimentation provides insights into the behavior of JPA entity lifecycle and EntityManager methods, offering a better understanding of how to manage entities in a Spring Boot application. It also highlights the importance of transaction management in ensuring data consistency and integrity.
